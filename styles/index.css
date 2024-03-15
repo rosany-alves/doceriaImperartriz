@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+:root{
+    --corPrimaria : rgb(129, 31, 31);
+    --corSecundaria : rgb(178, 209, 0);
+    --branco: white;
+    --preto: black;
+}
+#cabecalho{
+    width: 300px;
+    height: 300px;
+    background-color: var(--corPrimaria);
+}
+button{
+    width: 300px;
+    height: 300px;
+    background-color: var(--corPrimaria);
+}
+#rodape{
+    width: 300px;
+    height: 300px;
+    background-color: var(--corPrimaria);
+}
